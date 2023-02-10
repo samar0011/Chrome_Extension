@@ -37,6 +37,7 @@ learning techs associated with building chrome extension and i'll be implementin
 
 
 After learning those techs i will be Implementing Checks for cheating things in Chrome Extension:-
+
 **Checks for cheating**
 
 - Face Verification
@@ -52,6 +53,6 @@ After learning those techs i will be Implementing Checks for cheating things in 
 - Samarjeet Kumar
   - [LinkedIn](https://www.linkedin.com/in/samarjeet-kumar-8236a0196/)
 
-<sub>Got to learn new things in between these Assignment. **Thanks to Elitmus ! **</sub>
+<sub>Got to learn new things in between these Assignment. **Thanks to Elitmus !**</sub>
 
 
