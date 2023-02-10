@@ -16,6 +16,7 @@ But proctoring has always been a task and cheating and unfair practices have alw
 - After cloning the repository, click on `Load Unpacked` and select the `extension` directory.
 
 **My Insight**
+
 -In this chrome Extension i couldn't add all the requirements in the Assignment given.
 But i have tried my level best based on my skills to add requires features to it for 
 exam procurring.
