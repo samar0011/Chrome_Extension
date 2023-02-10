@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	if (window.screenTop !== 0 || window.screenY !== 0) {
 		document.getElementById('full_screen').innerHTML = 'true';
 	}
-	// else {
-	// 	document.getElementById('full_screen').innerHTML = 'false';
-	// }
+        else {
+ 	document.getElementById('full_screen').innerHTML = 'false';
+	 }
 });
