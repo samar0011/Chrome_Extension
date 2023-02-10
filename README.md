@@ -1,5 +1,5 @@
 # Chrome_Extension
-### Problem we are trying to solve?
+### Problem I am trying to solve?
 
 Due to Covid 19, remote learning has been a constant and so have been online examinations. 
 <br />
@@ -15,7 +15,7 @@ But proctoring has always been a task and cheating and unfair practices have alw
 - Look for the Developer mode toggle & turn it on if it's not already.
 - After cloning the repository, click on `Load Unpacked` and select the `extension` directory.
 
-
+**My Insight**
 -In this chrome Extension i couldn't add all the requirements in the Assignment given.
 But i have tried my level best based on my skills to add requires features to it for 
 exam procurring.
