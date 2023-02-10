@@ -36,7 +36,7 @@ managing Manifest files to build chrome extension, React WEBCAM API -
 learning techs associated with building chrome extension and i'll be implementing it soon.
 
 
-After learning those techs i will be Implementing Checks for cheating things in Chrome Extension:-
+After learning those techs i will be Implementing Checks for cheating in Chrome Extension:-
 
 **Checks for cheating**
 
