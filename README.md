@@ -29,6 +29,7 @@ of my knowledge but I will definetly implement these features soon.
 managing Manifest files to build chrome extension, React WEBCAM API - 
 
 [react-webcam](https://www.npmjs.com/package/react-webcam)
+
 [devtools-detect](https://www.npmjs.com/package/devtools-detect)
 
 
