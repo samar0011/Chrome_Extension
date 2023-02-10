@@ -52,6 +52,6 @@ After learning those techs i will be Implementing Checks for cheating things in 
 - Samarjeet Kumar
   - [LinkedIn](https://www.linkedin.com/in/samarjeet-kumar-8236a0196/)
 
-<sub>Got to learn new things in between these Assignment. **Checks for cheating** </sub>
+<sub>Got to learn new things in between these Assignment. ###Thanks to Elitmus ! </sub>
 
 
