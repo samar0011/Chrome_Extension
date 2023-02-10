@@ -32,6 +32,9 @@ managing Manifest files to build chrome extension, React WEBCAM API -
 
 [devtools-detect](https://www.npmjs.com/package/devtools-detect)
 
+-Since I am a Fresher I couldn't add all requirements of the assignment but as of now i have already started
+learning techs associated with building chrome extension and i'll be implementing it soon.
+
 
 After learning those techs i will be Implementing Checks for cheating things in Chrome Extension:-
 **Checks for cheating**
@@ -44,7 +47,7 @@ After learning those techs i will be Implementing Checks for cheating things in 
 - Full Screen Check
 
 
-### Authors
+### Author
 
 - Samarjeet Kumar
   - [LinkedIn](https://www.linkedin.com/in/samarjeet-kumar-8236a0196/)
